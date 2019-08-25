@@ -1,4 +1,4 @@
 # Oladele Task 2
 * Lucid Blog
-* Twitter
+* Twitter   https://twitter.com/djMcEnce/status/1165667863304331267
 * Cloudinary Image
